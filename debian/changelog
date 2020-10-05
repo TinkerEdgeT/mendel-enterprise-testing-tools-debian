@@ -1,3 +1,9 @@
+enterprise-testing-tools (0-2) mendel-eagle; urgency=medium
+
+  * Add OpenCL example
+
+ -- Coral <coral-support@google.com>  Mon, 05 Oct 2020 17:34:09 +0200
+
 enterprise-testing-tools (0-1) mendel-eagle; urgency=medium
 
   * Initial release.
